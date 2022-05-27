@@ -1,0 +1,12 @@
+default_context:
+    municipality: "The City of Alameda"
+    governing_body_type: "city council"
+    municipality_slug: "alameda"
+    python_municipality_slug: "alameda"
+    infrastructure_slug: "cdp-alameda-d3dabe54"
+    maintainer_or_org_full_name: "phildini"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "alameda"
+    hosting_github_url: "https://github.com/CouncilDataProject/alameda"
+    hosting_web_app_address: "https://councildataproject.github.io/alameda"
+    firestore_region: "us-central"
