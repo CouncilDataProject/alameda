@@ -1,5 +1,6 @@
 default_context:
     municipality: "The City of Alameda"
+    iana_timezone: "America/Los_Angeles"
     governing_body_type: "city council"
     municipality_slug: "alameda"
     python_municipality_slug: "alameda"

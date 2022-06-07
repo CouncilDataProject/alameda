@@ -13,6 +13,7 @@ const config = {
     },
     municipality: {
         name: "The City of Alameda",
+        timeZone: "America/Los_Angeles",
         footerLinksSections: [],
     },
 }
