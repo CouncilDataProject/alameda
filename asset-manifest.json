@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/alameda/static/js/main.e8bd5c4a.chunk.js",
-    "main.js.map": "/alameda/static/js/main.e8bd5c4a.chunk.js.map",
-    "runtime-main.js": "/alameda/static/js/runtime-main.2a5166c2.js",
-    "runtime-main.js.map": "/alameda/static/js/runtime-main.2a5166c2.js.map",
+    "main.js": "/alameda/static/js/main.c3d961ab.chunk.js",
+    "main.js.map": "/alameda/static/js/main.c3d961ab.chunk.js.map",
+    "runtime-main.js": "/alameda/static/js/runtime-main.99860853.js",
+    "runtime-main.js.map": "/alameda/static/js/runtime-main.99860853.js.map",
     "static/css/2.5082ff89.chunk.css": "/alameda/static/css/2.5082ff89.chunk.css",
-    "static/js/2.f38c3030.chunk.js": "/alameda/static/js/2.f38c3030.chunk.js",
-    "static/js/2.f38c3030.chunk.js.map": "/alameda/static/js/2.f38c3030.chunk.js.map",
+    "static/js/2.2ef9da56.chunk.js": "/alameda/static/js/2.2ef9da56.chunk.js",
+    "static/js/2.2ef9da56.chunk.js.map": "/alameda/static/js/2.2ef9da56.chunk.js.map",
     "index.html": "/alameda/index.html",
     "static/css/2.5082ff89.chunk.css.map": "/alameda/static/css/2.5082ff89.chunk.css.map",
-    "static/js/2.f38c3030.chunk.js.LICENSE.txt": "/alameda/static/js/2.f38c3030.chunk.js.LICENSE.txt"
+    "static/js/2.2ef9da56.chunk.js.LICENSE.txt": "/alameda/static/js/2.2ef9da56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a5166c2.js",
+    "static/js/runtime-main.99860853.js",
     "static/css/2.5082ff89.chunk.css",
-    "static/js/2.f38c3030.chunk.js",
-    "static/js/main.e8bd5c4a.chunk.js"
+    "static/js/2.2ef9da56.chunk.js",
+    "static/js/main.c3d961ab.chunk.js"
   ]
 }
