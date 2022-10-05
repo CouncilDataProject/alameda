@@ -1,2 +1,0 @@
-(this["webpackJsonpcdp-alameda"]=this["webpackJsonpcdp-alameda"]||[]).push([[0],{204:function(e,i){},90:function(e,i,n){"use strict";n.r(i);n(0);var t=n(26),a=n.n(t),o=n(65),c=(n(218),n(57));a.a.render(Object(c.jsx)("div",{children:Object(c.jsx)(o.AppConfigProvider,{appConfig:{firebaseConfig:{options:{projectId:"cdp-alameda-d3dabe54"},settings:{}},municipality:{name:"The City of Alameda",timeZone:"America/Los_Angeles",footerLinksSections:[]}},children:Object(c.jsx)(o.App,{})})}),document.getElementById("root"))}},[[90,1,2]]]);
-//# sourceMappingURL=main.d6edbc0c.chunk.js.map
