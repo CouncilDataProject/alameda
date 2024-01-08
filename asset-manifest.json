@@ -5,16 +5,16 @@
     "runtime-main.js": "/alameda/static/js/runtime-main.ec2f175f.js",
     "runtime-main.js.map": "/alameda/static/js/runtime-main.ec2f175f.js.map",
     "static/css/2.bd5b6b7e.chunk.css": "/alameda/static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.d664e245.chunk.js": "/alameda/static/js/2.d664e245.chunk.js",
-    "static/js/2.d664e245.chunk.js.map": "/alameda/static/js/2.d664e245.chunk.js.map",
+    "static/js/2.d298edc4.chunk.js": "/alameda/static/js/2.d298edc4.chunk.js",
+    "static/js/2.d298edc4.chunk.js.map": "/alameda/static/js/2.d298edc4.chunk.js.map",
     "index.html": "/alameda/index.html",
     "static/css/2.bd5b6b7e.chunk.css.map": "/alameda/static/css/2.bd5b6b7e.chunk.css.map",
-    "static/js/2.d664e245.chunk.js.LICENSE.txt": "/alameda/static/js/2.d664e245.chunk.js.LICENSE.txt"
+    "static/js/2.d298edc4.chunk.js.LICENSE.txt": "/alameda/static/js/2.d298edc4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec2f175f.js",
     "static/css/2.bd5b6b7e.chunk.css",
-    "static/js/2.d664e245.chunk.js",
+    "static/js/2.d298edc4.chunk.js",
     "static/js/main.dfbcbe00.chunk.js"
   ]
 }
